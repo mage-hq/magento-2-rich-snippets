@@ -1,5 +1,5 @@
 # magento-2-rich-snippets
-Magento 2 Rich Snippets extension helps to increase website traffic, improve search engine rankings.add rich snippets, breadcrumbs, ratings, prices, and more. for your store's products into the search results pages.
+You can increase your website traffic, improve your search engine rankings and add rich snippets, breadcrumbs, ratings, prices and more for your store’s products to the search results pages with the Magento 2 Rich Snippets extension.
 
 Please go to https://magehq.com/magento-2-rich-snippets.html buy extension
 
